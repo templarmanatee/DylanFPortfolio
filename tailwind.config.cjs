@@ -1,12 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./index.html","./src/**/*.{jsx,js}"],
   darkMode: 'class',
   theme: {
     extend: {
       fontFamily: {
-        dmSans: ['DM Sans', 'sans-serif']
-      }
+        dmSans: ["DM Sans", "sans-serif"]
+      },
+      display: ["group-hover"],
     },
   },
   plugins: [],

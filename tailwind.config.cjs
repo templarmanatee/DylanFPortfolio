@@ -8,6 +8,7 @@ module.exports = {
         dmSans: ["DM Sans", "sans-serif"]
       },
       display: ["group-hover"],
+      background: ["bg-sky-100"]
     },
   },
   plugins: [],

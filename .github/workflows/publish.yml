@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: 'node16'
+    runs-on: ubuntu-latest
     name: Build and Push
     steps:
       - name: git-checkout

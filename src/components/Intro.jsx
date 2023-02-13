@@ -15,7 +15,7 @@ function Intro() {
           would be born must first destroy a world." ― Hermann Hesse
         </p>
         <p className="text-sm max-w-xl mb-6 font-medium">
-          I'm Dylan, a 23-year old software developer. I have a passion for server architecture and put a lot of
+          I'm Dylan, a 22-year old software developer. I have a passion for server architecture and put a lot of
           value into unique and creative designs. I'm currently in Asheville, North Carolina working on finishing up my Computer Science degree and Full-Stack Web Dev Bootcamp but open to relocation. 
           My strengths include leading teams and backend design but I want to learn it all.
         </p>

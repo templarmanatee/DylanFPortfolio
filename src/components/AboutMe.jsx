@@ -8,17 +8,9 @@ function AboutMe() {
       <div class="w-128px hidden group-hover:flex border-2 border-stone-400 bg-slate-100 rounded-md overflow-hidden">
         <img src="/assets/pictureOfMe.png" alt="" className="h-64 p-4 left-5" />
         <p className="flex flex-wrap">
-          Hi! I'm Dylan, a 23-year old software developer. Currently I work in
-          jewelry doing custom design and client consultation but not for too
-          much longer. I have a passion for server architecture and put a lot of
-          value into unique and creative designs. I'm currently in Asheville,
-          North Carolina but open to relocation. Software development has been a
-          passion of mine since I was a teenager writing "Hello World" scripts,
-          but really fell in love with creating websites and learning as much as
-          I possibly could this year. Outside of coding, I enjoy spending time
-          out in the mountains here in the Appalachians and crafting bonsai
-          trees. I also hold a deep love for all forms of music and would love
-          to branch into the music streaming industry.
+          I'm Dylan, a 23-year old software developer. I have a passion for server architecture and put a lot of
+          value into unique and creative designs. I'm currently in Asheville, North Carolina working on finishing up my Computer Science degree and Full-Stack Web Dev Bootcamp but open to relocation. 
+          My strengths include leading teams and backend design but I want to learn it all.
         </p>
       </div> */}
       <button

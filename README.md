@@ -4,7 +4,7 @@
 
 ## Description
 
-A collection of my current digital works
+A curated collection of my current digital works from my time as a bootcamp student! This portfolio was built to begin my journey into learning React and growing as a developer. Each project can be clicked on to learn more about it or go directly to where it is hosted. It features a day/night mode shift as well. 
 
 ## Table of Contents
 
@@ -20,10 +20,6 @@ https://dylanfreeman.tech
 ## Usage
 
 Simply click any project
-
-## Credits 
-
-
 
 ## License 
 

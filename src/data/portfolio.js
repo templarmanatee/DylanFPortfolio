@@ -22,19 +22,19 @@ export default [
     title: "README Generator", 
     stack: ["JavaScript"], 
     link: "https://github.com/templarmanatee/GENME.md", 
-    imgUrl: ""
+    imgUrl: "/assets/readMeGenImage.png"
   },
   {
     title: "Weather Forecaster", 
     stack: ["JavaScript", "OpenWeather API", "Bootstrap"], 
     link: "https://github.com/templarmanatee/fiveCast-a-forecasting-App", 
-    imgUrl: ""
+    imgUrl: "/assets/weatherAppImage.png"
   },
   {
     title: "JavaScript Quiz", 
     stack: ["JavaScript", "HTML", "CSS"], 
     link: "https://templarmanatee.github.io/A-Beginner-JavaScript-Quiz/", 
-    imgUrl: ""
+    imgUrl: "/assets/CodingQuizImage.png"
   },
   {
     title: "Password Generator", 
@@ -45,7 +45,7 @@ export default [
   {
     title: "Portfolio", 
     stack: ["React", "Tailwind", "JavaScript"], 
-    link: "https://templarmanatee.github.io/A-Beginner-JavaScript-Quiz/", 
-    imgUrl: ""
+    link: "https://github.com/templarmanatee/DylanFPortfolio", 
+    imgUrl: "assets/portfolioImage.png"
   },
 ];

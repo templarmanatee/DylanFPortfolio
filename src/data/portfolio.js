@@ -13,6 +13,11 @@ export default [
     imgUrl: "/assets/SpotterSplash.png"
   },
   {
+    title: "Remarque", 
+    stack: ["MERN Stack", "RGL", "DaisyUi"], 
+    link: "https://remarque-bullet.herokuapp.com/", 
+    imgUrl: "https://i.imgur.com/jf0BRWg.png"
+  {
     title: "CLI Employee Manager", 
     stack: ["JavaScript", "SQL", "Express"], 
     link: "https://github.com/templarmanatee/EZManager", 

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
+import Background from "./components/Background";
 
 function App() {
   const [theme, setTheme] = useState(null);
